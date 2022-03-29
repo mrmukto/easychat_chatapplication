@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893990585639",
+    "project_id": "easy-chat-dfd2b",
+    "storage_bucket": "easy-chat-dfd2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893990585639:android:89ad9e503d6b95ed879502",
+        "android_client_info": {
+          "package_name": "com.mrmukto12.easychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893990585639-5b5c6ctvep3rvsdtbc7ib71el9hkupob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmBf5adXCZJDGjVw_O2Y-PRB9ezdvL_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893990585639-5b5c6ctvep3rvsdtbc7ib71el9hkupob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
